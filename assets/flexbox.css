@@ -8,10 +8,12 @@
     color: #fff;
     background-color: #5995da;
     padding: 20px 0;
+    display: flex;
+    justify-content: center;
 }
 
 .menu {
-     border: 1pc solif #fff; /* for debugging  */
+     border: 1pc solif #fff;    /* for debugging  */
     width: 900px;
 
 }
